@@ -73,7 +73,7 @@ I'm a Computer Science student at Manipal Institute of Technology, Bengaluru. My
 ## Find Me
 
 <p>
-<a href="https://linkedin.com/in/aasthiktripathi">
+<a href="https://linkedin.com/in/aasthik-tripathi">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="20"/>
 </a>
 <a href="mailto:tripathiaasthik@gmail.com">
