@@ -5,7 +5,7 @@
 
 I like poking at systems until they tell me how they work, then figuring out how to lock the door behind me.
 
-I'm a Computer Science (Cyber Security) student at Manipal Institute of Technology, Bengaluru. My interests sit at the intersection of network security, vulnerability assessment, security monitoring, and identity & access management.
+I'm a Computer Science student at Manipal Institute of Technology, Bengaluru. My interests sit at the intersection of software, ai, and database management
 
 ### What I'm up to
 
